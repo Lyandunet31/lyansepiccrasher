@@ -1,7 +1,7 @@
 local module = {}
 function module:CrashServer()
 	if game.PlaceId == 103406621013959 then
-		script.duckalert.Parent = game.Players.LocalPlayer.PlayerGui
+		warn"Please equip the fucking duckkk!!!"
 		local Interval = 0
 		local HideDucks = true
 
